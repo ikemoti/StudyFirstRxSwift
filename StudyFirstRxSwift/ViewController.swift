@@ -23,9 +23,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var Segment: UISegmentedControl!
     @IBOutlet weak var freeTextField: UITextField!
     @IBOutlet weak var nameTextField: UITextField!
-    
-    
-    
     @IBOutlet var gettingButton: [UIButton]!
     
         
